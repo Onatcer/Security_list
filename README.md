@@ -337,6 +337,7 @@ Check host | http://check-host.net/
 FireHOL IP list | https://github.com/firehol/blocklist-ipsets :star:
 Google dork | "$IP"
 Host file | https://hosts-file.net/
+Hosting Checker | https://hosting-checker.net/
 IP void | http://www.ipvoid.com/
 Multi RBL |  http://multirbl.valli.org/lookup/ :star:
 Nirsoft country IP | http://www.nirsoft.net/countryip/
